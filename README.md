@@ -33,4 +33,4 @@ javac name.java
 ```
 java name
 ```
-***Note:*** Java is case sensitive Programming language. All code, commands, and file names should is used in consistent casing. FirstProgram is not same as firstprogram.
+**Note:** Java is case sensitive Programming language. All code, commands, and file names should is used in consistent casing. FirstProgram is not same as firstprogram.
