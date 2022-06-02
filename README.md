@@ -9,3 +9,9 @@ Hello World Java – [Your First Java Program Video](https://www.youtube.com/wat
 System.out.println("Hello world");
 ```
 
+## Steps to Compile and Run first Java program
+Here is a step by step process on how to run Java program:
+
+1. Open Notepad from Start menu by selecting Programs > Accessories > Notepad.
+1. Create a Source Code for your Hello World program in Java
+1. 
