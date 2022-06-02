@@ -34,3 +34,6 @@ javac name.java
 java name
 ```
 ***Note:*** Java is case sensitive Programming language. All code, commands, and file names should is used in consistent casing. **Name** is not same as **name**
+
+7. If you copy and paste the same code in IDE like Eclipse the compiling and execution is done with the click of a button Using IDE is convenient and improves your efficiency but since you are learning Java, we recommend you stick to notepad for simple Java program execution.
+8. 
