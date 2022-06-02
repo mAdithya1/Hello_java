@@ -27,4 +27,10 @@ class name{
 cd workspace
 javac name.java
 ```
-6.  
+5. If you look in your working folder, you can see that a file named `name.class` has been created.
+6. To execute the code, enter the command java followed by the class name, as expected output Hello World is displayed now.
+
+```
+java name
+```
+===Note: ===Java is case sensitive Programming language. All code, commands, and file names should is used in consistent casing. FirstProgram is not same as firstprogram.
