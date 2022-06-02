@@ -21,3 +21,4 @@ class name{
   }
 }
 ```
+1. Save the file for Java Hello World program as name.java make sure to select file type as all files while saving the file in our working folder C:\workspace
