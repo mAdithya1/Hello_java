@@ -13,7 +13,7 @@ System.out.println("Hello world");
 Here is a step by step process on how to run Java program:
 
 1. Open Notepad from Start menu by selecting Programs > Accessories > Notepad.
-1. Create a Source Code for your Hello World program in Java
+2. Create a Source Code for your Hello World program in Java
 ```java
 class name{
   public static void main(String[] arge){
@@ -21,4 +21,5 @@ class name{
   }
 }
 ```
-1. Save the file for Java Hello World program as name.java make sure to select file type as all files while saving the file in our working folder C:\workspace
+3. Save the file for Java Hello World program as name.java make sure to select file type as all files while saving the file in our working folder C:\workspace
+4. 
