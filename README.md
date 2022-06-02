@@ -21,8 +21,8 @@ class name{
   }
 }
 ```
-3. Save the file for Java Hello World program as name.java make sure to select file type as all files while saving the file in our working folder C:\workspace
-4.  Open the command prompt. Go to Directory C:\workspace. Compile the code of your Hello world Java program using command,
+3. Save the file for Java Hello World program as `name.java` make sure to select file type as all files while saving the file in our working folder `C:\workspace`
+4.  Open the command prompt. Go to Directory `C:\workspace.` Compile the code of your Hello world Java program using command,
 ```
 cd workspace
 javac name.java
