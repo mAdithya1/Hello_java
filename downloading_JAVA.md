@@ -18,4 +18,13 @@ After running the installation file, the installation wizard welcome screen appe
 ![image](https://user-images.githubusercontent.com/104252631/172865139-f38c6da0-6303-4296-bcd8-4c8726ad3415.png)
 2. Choose the destination folder for the Java installation files or stick to the default path. Click *Next* to proceed.
  ![image](https://user-images.githubusercontent.com/104252631/172865563-8ca5ef1a-2d58-4970-8564-53ae53c967da.png)
+3. Wait for the wizard to finish the installation process until the Successfully Installed message appears. Click Close to exit the wizard.
+![image](https://user-images.githubusercontent.com/104252631/172866060-36e63762-5898-4236-8057-f3b35a6dbb48.png)
 
+## Set Environmental Variables in Java
+Set Java [environment variables](https://phoenixnap.com/kb/windows-set-environment-variable) to enable program compiling from any directory. To do so, follow the steps below:
+
+**Step 1: Add Java to System Variables**
+1. Open the Start menu and search for environment variables.
+
+2. Select the Edit the system environment variables result.
