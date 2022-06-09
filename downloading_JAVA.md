@@ -88,3 +88,27 @@ Class HelloWorld{
 `
 Note: When using Notepad, select All files for the Save as type option and add the .java extension to the file name.
 `
+
+## Step 2: Compile the Test Java code
+
+1. In the command prompt, change the directory to the file's location and use the following syntax to compile the program:
+
+```
+javac [filename]
+```
+For example:
+![image](https://user-images.githubusercontent.com/104252631/172869055-dfc06c6c-bd00-45e3-949e-29190334f272.png)
+
+After a successful compilation, the program generates a .class file in the file directory.
+
+2. Run the program with the following syntax:
+```
+java [filename]
+```
+![image](https://user-images.githubusercontent.com/104252631/172869271-be6ccb13-1df0-42b3-a0db-05770dc5d674.png)
+
+The output shows that the program runs correctly, displaying the Hello world! 
+
+
+
+
