@@ -96,7 +96,7 @@ Note: When using Notepad, select All files for the Save as type option and add t
 ```
 javac [filename]
 ```
-For example:
+For example:  
 ![image](https://user-images.githubusercontent.com/104252631/172869055-dfc06c6c-bd00-45e3-949e-29190334f272.png)
 
 After a successful compilation, the program generates a .class file in the file directory.
