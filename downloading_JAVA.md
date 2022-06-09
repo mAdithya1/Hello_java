@@ -45,6 +45,25 @@ Set Java [environment variables](https://phoenixnap.com/kb/windows-set-environme
 
 6. Click OK to save the changes and exit the variable editing window.
 
+**Step 2: Add JAVA_HOME Variable**
+Some applications require the JAVA_HOME variable. Follow the steps below to create the variable:
+
+1. In the Environment Variables window, under the System variables category, click the New… button to create a new variable.
+
+![image](https://user-images.githubusercontent.com/104252631/172867343-c7e00ff5-fd81-454a-9b92-98bcb1814cb9.png)
+
+2. Name the variable as JAVA_HOME.
+
+3. In the variable value field, paste the path to your Java jdk directory and click OK.
+
+![image](https://user-images.githubusercontent.com/104252631/172867499-5e61c21c-47c2-4f15-b3e0-7636f1e01579.png)
+
+5. Confirm the changes by clicking OK in the Environment Variables and System properties windows.
+
+## Test the Java Installation
+
+Run the `java -version` command in the command prompt to make sure Java installed correctly:
+
 
 
 
