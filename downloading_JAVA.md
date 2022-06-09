@@ -8,7 +8,7 @@ Download the latest Java Development Kit installation file for Windows 10 to hav
 ## Install Java on Windows 10  
 
 After downloading the installation file, proceed with installing Java on your Windows system.  
-Follow the steps below:
+Follow the steps below:  
 **Step 1: Run the Downloaded File**  
 Double-click the downloaded file to start the installation.  
 **Step 2: Configure the Installation Wizard**   
