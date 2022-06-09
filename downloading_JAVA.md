@@ -64,6 +64,27 @@ Some applications require the JAVA_HOME variable. Follow the steps below to crea
 
 Run the `java -version` command in the command prompt to make sure Java installed correctly:
 
+![image](https://user-images.githubusercontent.com/104252631/172867761-4bba9b89-f2ba-4e91-9929-7719dbc1bf14.png)
 
+If installed correctly, the command outputs the Java version. Make sure everything works by writing a simple program and compiling it. Follow the steps below:
 
+**Step 1: Write a Test Java Script**
+1. Open a text editor such as Notepad++ and create a new file.
 
+2. Enter the following lines of code and click *Save*:
+
+```java
+Class HelloWorld{
+  public static void main(String[] args){
+    system.out.println("Hello World!")
+  }
+}
+```
+![image](https://user-images.githubusercontent.com/104252631/172868372-a370394a-20db-4241-a0e6-54bd4edb7dcd.png)
+
+3. Name the file and save it as a Java source file (*.java).  
+![image](https://user-images.githubusercontent.com/104252631/172868465-e424192e-e440-4dc0-8a82-961200e6fe6c.png)
+
+`
+Note: When using Notepad, select All files for the Save as type option and add the .java extension to the file name.
+`
