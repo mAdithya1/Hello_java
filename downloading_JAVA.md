@@ -28,3 +28,23 @@ Set Java [environment variables](https://phoenixnap.com/kb/windows-set-environme
 1. Open the Start menu and search for environment variables.
 
 2. Select the Edit the system environment variables result.
+
+![image](https://user-images.githubusercontent.com/104252631/172866464-3444353a-1bfd-424e-8829-cbd5c3248393.png)
+
+3. In the System Properties window, under the Advanced tab, click Environment Variables…
+
+![image](https://user-images.githubusercontent.com/104252631/172866571-ec62c483-0a6f-4b56-b8d5-686598af7132.png)
+
+4. Under the System variables category, select the Path variable and click Edit:
+
+![image](https://user-images.githubusercontent.com/104252631/172866684-60713997-b878-4ce3-a34a-4ebf6bbece3d.png)
+
+5. Click the New button and enter the path to the Java bin directory:
+
+![image](https://user-images.githubusercontent.com/104252631/172866833-5da19c87-662b-4fd8-9a7b-892ceba5a0ef.png)
+
+6. Click OK to save the changes and exit the variable editing window.
+
+
+
+
